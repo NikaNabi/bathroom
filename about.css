@@ -1,0 +1,7 @@
+.about {max-width: 800px;
+margin: 20px auto;padding: 20px; background-color: #ffffff;
+border: 1px solid #ddd;border-radius:8 px; box-shadow: 0 4px 6px rgba(0,0,0,1); }
+.about img {width: 100%;
+height: auto;
+border-radius: 8px;}
+.about p{ font-size: 16px; line-height: 1.6;}

@@ -1,0 +1,9 @@
+.calcuiation {width: 600px;
+margin: 20px auto; padding: 20px;
+color: #f9f9f9;border: 1px solid #ddd;border-radius: 4px;
+box-shadow: 0 4px 6px rgba(0,0,0,1);}
+.calcuiation h2 {text-align: center; color: #333}
+.calcuiation input,.calcuiation select, .calcuiation button {width: 100%; padding: 10px; margin-bottom: 1px solid #ccc;
+border-radius: 4px;}
+.calcuiation button {background-color:  #007bff; color: white; size: 16 px; font-weight: bold; cursor: pointer;}
+.calcuiation button:hover{background-color: #0056b3;}
